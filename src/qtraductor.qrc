@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/arrowleft.png</file>
+        <file>images/arrowright.png</file>
+        <file>images/arrowdown.png</file>
+        <file>images/arrowup.png</file>
+    </qresource>
+    <qresource prefix="/translation">
+        <file>qtraductor_ca_ES.qm</file>
+        <file>qtraductor_es_ES.qm</file>
+    </qresource>
+</RCC>

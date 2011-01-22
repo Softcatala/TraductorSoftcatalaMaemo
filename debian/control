@@ -1,0 +1,90 @@
+Source: qtraductor
+Section: user/utilities
+Priority: extra
+Maintainer: Toni Hermoso Pulido <toniher@softcatala.cat>
+Build-Depends: debhelper (>= 5), libqt4-dev (>= 4.6.1), libqtm-dev
+Standards-Version: 3.7.3
+Homepage: http://www.softcatala.org
+
+Package: qtraductor
+Architecture: any
+Depends: libqt4-core, libqt4-gui, libqt4-network, libc6 (>= 2.5.0-1), libgcc1 (>= 1:4.2.1), libqt4-gui (>= 4.5.2), libstdc++6 (>= 4.2.1), hildon-application-manager
+Description: Translator based on Softcatalà services.
+ Based on qTranslate, it has an easy-to-us interface. You can
+ send your translation per E-Mail, SMS, or copy it to the
+ clipboard.
+XSBC-Maemo-Display-Name: qTraductor
+XSBC-Bugtracker: mailto:toniher@softcatala.cat
+XB-Maemo-Icon-26:
+ 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
+ kq9UYQ5JrrsAAAAASUVORK5CYII=
+
